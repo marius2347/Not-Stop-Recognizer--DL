@@ -17,7 +17,7 @@
 <br>
 
 <h2> Link </h2>
-<b> Project: https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstQ1YwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzJTJGRmluYWxQcm9qZWN0LVNLTyUyRkNWaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoidGhlaWEiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcxMTM5ODAzM30.nrU-F_UHRzCJ1XoYMpNCsW-v9m4pSYLQrOmp8gAzF3Y</b>
+<b> Project: https://bit.ly/project-not-stop</b>
 <br>
 
 <h2>Photo</h2>
